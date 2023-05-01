@@ -318,7 +318,7 @@ h6 {
 
 .navbar-mobile ul {
   display: block;
-  position: absolute;
+  position: fixed;
   top: 55px;
   right: 15px;
   bottom: 45px;
